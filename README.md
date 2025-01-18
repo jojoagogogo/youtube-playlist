@@ -11,7 +11,7 @@ This is an application easily to search PlayList of Everyone, to play the playli
 <img src="doc/google-play-badge.png" width="200px">
 </a>
 
-<a href="https://github.com/jojoagogogo/btfind/releases/latest/download/youtube-playlist.apk">
+<a href="https://github.com/jojoagogogo/youtube-playlist/releases/latest/download/youtube-playlist.apk">
 <img src="doc/download.png" width="200px">
 </a>
 
